@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - c1
+  - c2
+  - c3
+  - c4
+  - c1col
+  - c2col
+  - c3col
+  - c4col
+  - GameHandler
+  - c5
+  - ground
+  - bullet
+  - dynamite
+  - bomb
+  - bomb4
+  - bomb5
+  - drone
+  - fireball
+  - tnt9
+  - tnt10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - cubes
+  - tempbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
